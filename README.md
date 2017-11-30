@@ -2,4 +2,6 @@
 
 This respository is created as a test. 
 
-Adding more histroy to readme file
+Adding more histroy. 
+
+Decided to delete something. 
